@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleSpring.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleSpring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleSpring_main.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleSpring_main.iml" group="GradleSpring" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleSpring_test.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleSpring_test.iml" group="GradleSpring" />
+    </modules>
+  </component>
+</project>
